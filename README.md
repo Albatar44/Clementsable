@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Clementsable
 - 👀 I’m interested in security and cryptocurrencies
 - 🌱 I’m currently learning about crypto
 - 💞️ I’m looking to collaborate on making myself more aware about what is new on the ecosystem
